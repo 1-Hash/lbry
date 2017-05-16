@@ -11,6 +11,7 @@ at anytime.
 ### Added
   * Add decorator to support queueing api calls
   * Added force option to API command resolve
+  * Handle *uris in `resolve`
 
 ### Changed
   *
